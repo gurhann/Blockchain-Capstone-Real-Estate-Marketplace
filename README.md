@@ -1,8 +1,14 @@
 # Udacity Blockchain Capstone
 
-The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
+The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product.
+
+# To Run Test 
+truffle develop
+# and then run the test
+test 
 
 SolnSquareVerifier Contract: https://rinkeby.etherscan.io/address/0x174e2Fe6ef5Dd7B1C47c0349F19Aa1306D56899d
+Verifier Contract: https://rinkeby.etherscan.io/address/0xCfa55f2037E59c9d8A080144253e7F6274244A1b
 Opensea Collection: https://testnets.opensea.io/collection/gk-erc721mintable
 
 # Project Resources
